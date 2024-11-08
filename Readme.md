@@ -1,6 +1,6 @@
 # Личный проект «Кекстаграм»
 
-* Студент: [Екатерина Шалмина](https://up.htmlacademy.ru/javascript/33/user/2462395).
+* Студент: 
 * Наставник: [Артём Картавый](https://htmlacademy.ru/profile/artem_k).
 
 ---
